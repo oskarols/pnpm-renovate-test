@@ -1,0 +1,5 @@
+allowBuilds:
+  esbuild: set this to true or false
+catalog:
+  nuxt: 4.0.0
+catalogMode: strict
