@@ -18,6 +18,7 @@
   },
   "type": "module",
   "dependencies": {
+    "express": "catalog:default",
     "nuxt": "catalog:",
     "react": "catalog:react17"
   }
