@@ -18,6 +18,7 @@
   },
   "type": "module",
   "dependencies": {
-    "nuxt": "catalog:"
+    "nuxt": "catalog:",
+    "react17": "catalog:"
   }
 }
