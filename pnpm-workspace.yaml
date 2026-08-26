@@ -2,6 +2,7 @@ allowBuilds:
   esbuild: set this to true or false
 catalog:
   nuxt: 4.0.0
+catalogs: 
   react17:
     react: ^17.0.2
 catalogMode: strict

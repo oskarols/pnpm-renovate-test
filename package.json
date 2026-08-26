@@ -19,6 +19,6 @@
   "type": "module",
   "dependencies": {
     "nuxt": "catalog:",
-    "react17": "catalog:"
+    "react": "catalog:react17"
   }
 }
